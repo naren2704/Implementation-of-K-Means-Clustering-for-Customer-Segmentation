@@ -4,6 +4,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Equipments Required:
 1.Hardware – PCs
+
 2.Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm
 1. Import the necessary packages using import statement. 
@@ -17,7 +18,9 @@ Program to implement the K Means Clustering for Customer
 Segmentation.
 
 
+
 Developed by: NARENDRAN B 
+
 RegisterNumber: 212222240069
 
 ```
@@ -56,16 +59,29 @@ plt.title("Customer Segments")
 ```
 ## Output:
 ## Data.head():
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/14528cda-b123-488a-80b1-5d834b41063e)
+
 ## Data.info():
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/17c07823-e1c7-4666-8d87-bad35ae42436)
+
 ## Data.isnull().sum():
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/45fdde83-1fb3-4302-942e-d031f46480b7)
+
 ## plt-Elbow Method:
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/125726b3-fe53-42a0-8f3e-01c4a4a68a77)
+
 ## Km.fit(data.iloc):
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/9f0f8876-2fc6-45e8-a8b1-d2b193541c03)
+
 ## plt-Customer Segments:
+
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/27dec05a-f207-4248-b02a-d4f1ed432de1)
+
+
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
