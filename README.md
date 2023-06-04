@@ -67,8 +67,6 @@ plt.title("Customer Segments")
 
 ## Output:
 
-## Dataset:
-
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/3b45f518-1ddf-4e51-ab0a-30c484bba1d9)
 
 ![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/2a16302e-18ad-4c0a-94c7-01b3087156c6)
