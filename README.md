@@ -69,24 +69,17 @@ plt.title("Customer Segments")
 
 ## Dataset:
 
-![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/5900c744-1546-4574-aada-2dfc6ecf7981)
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/3b45f518-1ddf-4e51-ab0a-30c484bba1d9)
 
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/2a16302e-18ad-4c0a-94c7-01b3087156c6)
 
-## Dataset information:
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/d63e5b69-f761-43f0-a985-086e27484d38)
 
-![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/930eef0a-d035-4395-80b9-5e1d90c814b4)
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/1687879d-20ea-48ce-88da-e93dd470a6fb)
 
-![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/33186483-32f1-464c-a373-a1dcb0eb7fe1)
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/5c175726-709f-4016-89c5-236e48f6909a)
 
-
-## Elbow method graph (wcss vs each iteration):
-
-![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/85948c5e-4752-471e-8cea-4566572a5ccd)
-
-## Cluster represnting customer segments-graph:
-
-![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/056f1c11-6069-4c56-82ac-f67a58c23865)
-
+![image](https://github.com/naren2704/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118706984/a19cc52f-32d7-4deb-b2ba-d207fd582d48)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
